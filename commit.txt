@@ -1,0 +1,3 @@
+# Commit Message Format
+
+__01__ Project structure setup (19 May 2025)
